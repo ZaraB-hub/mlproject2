@@ -1,0 +1,11 @@
+topic_id,n,pos,neu,neg,avg_score,pos_pct,neu_pct,neg_pct,top_terms
+8,373,57,239,77,0.7321155160745411,0.153,0.641,0.206,"new, china, ads, cancer, malware, price, rust, microsoft, robots, says, world, google"
+6,187,24,116,47,0.7172760455047383,0.128,0.62,0.251,"like, people, years, know, think, just, really, security, good, looking, time, don"
+3,173,27,97,49,0.7053222167009563,0.156,0.561,0.283,"ai, like, google, just, think, new, models, people, research, intelligence, tools, ai models"
+5,111,5,25,81,0.7027003391905948,0.045,0.225,0.73,"windows, pc, laptop, help, tried, screen, issue, drive, just, game, fix, account"
+2,94,14,62,18,0.7106787067778567,0.149,0.66,0.191,"data, model, models, training, using, code, use, reasoning, time, train, github, python"
+9,74,24,38,12,0.7150237068936631,0.324,0.514,0.162,"quantum, use, computing, solar, new, drug, breakthrough, quantum computing, ve, promising, design, scientists"
+7,63,15,33,15,0.7064907735302335,0.238,0.524,0.238,"iphone, phone, battery, apple, power, pro, 17, way, 10, pixel, xiaomi, iphone air"
+1,46,5,26,15,0.7311399404121481,0.109,0.565,0.326,"openai, reddit, news, ai, source, open source, secret, open, secrets, tiktok, removed reddit, secret service"
+4,39,7,23,9,0.741549455966705,0.179,0.59,0.231,"2025, switch, nintendo, virtual, game, industry, cards, decisions, gaming, linux, october, xbox"
+0,9,2,5,2,0.7494645913441976,0.222,0.556,0.222,"parts, engine, aerospace, reflection, decade, reproducibility, moving, mind, turn, plans, materials, 3d"
